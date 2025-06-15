@@ -1,11 +1,9 @@
 # Number-Guessing-game
 Java based game project
 
-
 package Projects;
 import java.util.Random;
 import java.util.Scanner;
-
 public class GuessingNumber {
 		 public static void main(String[] args) {
 		        Scanner scanner = new Scanner(System.in);
